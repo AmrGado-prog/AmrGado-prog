@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
 
 <!-- Typing Animation -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Cross+Platform+Mobile+Developer;React+%7C+Next.js+%7C+Angular;React+Native+%7C+Flutter" />
 
-<br><br>
+<br><br> -->
 
 <div align="center">
 
