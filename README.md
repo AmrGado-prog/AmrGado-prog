@@ -7,8 +7,8 @@
 <br><br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-<br>
-<img src="https://raw.githubusercontent.com/AmrGado-prog/AmrGado-prog/main/YOUR_IMAGE_NAME.png" width="40%"/>
+<!-- <br>
+<img src="https://raw.githubusercontent.com/AmrGado-prog/AmrGado-prog/main/YOUR_IMAGE_NAME.png" width="40%"/> -->
 
 <hr>
 
