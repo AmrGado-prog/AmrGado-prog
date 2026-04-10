@@ -6,9 +6,15 @@
 
 <br><br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/> 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Amr+Gado;Frontend+Developer;Cross+Platform+Mobile+Developer;React+%7C+Next.js+%7C+Angular;React+Native+%7C+Flutter" />
+
+<br><br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
+
+</div>
 
 <hr>
 
